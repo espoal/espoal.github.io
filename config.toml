@@ -1,0 +1,4 @@
+baseURL = 'https://espoal.github.io'
+languageCode = 'en-us'
+title = 'espoal blog'
+theme = 'PaperMod'
